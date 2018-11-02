@@ -12,6 +12,11 @@ h1 {
   padding: 20px 0px 10px 0px;
 }
 
+h2{
+	color: white;
+	padding: 20px 0px 10px 0px;
+}
+
 a {
 color: #A014B6;
 text-decoration: none;
