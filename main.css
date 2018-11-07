@@ -35,3 +35,6 @@ a {
 color: #A014B6;
 text-decoration: none;
 }
+ a:hover {
+          color: hotpink;
+        }
