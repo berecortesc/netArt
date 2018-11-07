@@ -34,12 +34,5 @@ h5 {
 a {
 color: #A014B6;
 text-decoration: none;
-
 }
- a:hover {
-          color: #ff794d;
-        }
-.link-two:hover{
-	color: pink;
-	background-color: purple;
-}
+ 
