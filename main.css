@@ -32,7 +32,10 @@ h5 {
 }
 
 a {
-color: #A014B6;
+color: #ff3399;
 text-decoration: none;
 }
+a:hover {
+          color: #6699ff;
+        }
  
